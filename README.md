@@ -72,11 +72,5 @@ The reason is because we connect external LED to D1 and we want it blink
 
 ![](https://cdn-images-1.medium.com/max/800/1*6xu4zW6xPawfNZKv2PIt8w.png)
 
-Click ✔︎ for verify and click → for Upload to NodeMCU
 
-Any Donation for a coffee time
 
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://paypal.me/pensopha/25)
-
-For More Information
-https://medium.com/patcyber/begin-internet-of-things-projects-using-arduino-esp8266-1445f21bb189
